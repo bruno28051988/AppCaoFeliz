@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Caofeliz" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/azul</item>
+        <item name="colorPrimaryVariant">@color/azul</item>
+        <item name="colorOnPrimary">@color/branco</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/azul_escuro</item>
+        <item name="colorSecondaryVariant">@color/azul_escuro</item>
+        <item name="colorOnSecondary">@color/branco</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
